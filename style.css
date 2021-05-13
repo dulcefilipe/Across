@@ -1,0 +1,123 @@
+body {
+	size: 90%;
+	text-align: left;
+	font-family: verdana;
+	background-color: white;
+	color: #444445;
+	font-size: 20px;
+}
+
+header {
+	height: 151px;
+	width: auto;
+	background-color: #f0f2f5;
+}
+
+.name {
+	margin-top: 0;
+	margin-left: 0;}
+
+
+
+h1 {
+	font-size: 60px;
+	color: #969696;
+	text-shadow: 3px 2px 2px gray; 
+	text-align: center;
+	float: right;
+	padding-right: 40px;
+}
+
+nav {background-color: gray;
+	height: 28px;
+}
+
+.nav{ 
+margin-top: 150px;
+padding: 20px;
+text-decoration: none; 
+color: white;
+padding-left: 50px;
+}
+
+nav a:hover {color: red;
+}
+
+h2 {
+	font-size: 50px;
+	color: #969696;
+	margin-top: 40px;
+	text-shadow: 3px 2px 2px gray; 
+	text-align: center;
+}
+
+.raparigas {
+	text-decoration: none;
+	color: #969696;	
+}
+.raparigas:hover {
+	color: blue;
+	}
+
+
+h3{
+	font-size: 40px;
+	color: #B4B4B4;
+	text-shadow: 3px 2px 2px gray;
+	margin-left: 30px;
+	text-align: center;
+}
+
+p {
+	font-size: 20px;
+	text-align: left;
+	margin-left: 50px;
+}
+
+
+.img {
+	border-radius: 10px;
+}
+
+.historia {
+	text-align: center;
+}
+
+
+footer{padding-top: 150px;
+}
+
+p.redessociais { 
+	background-color: #CC0000;
+	border-radius: 5px;
+	height: 100px;
+	align-content: center;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	margin-left: 0;
+	}
+
+#contactos{align-content: center;
+
+}
+
+.redes {
+	margin-right: 0;
+	list-style: none;
+	text-align: center;
+	}
+
+.redes li{
+	display: inline;
+}
+
+.redes a{
+	color: #4e4f4f;
+	font-size: 30px;
+}
+
+.redes a:hover {
+	color: #CC0000;
+}
+
