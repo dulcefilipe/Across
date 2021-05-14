@@ -1,6 +1,6 @@
 body {
 	size: 90%;
-	text-align: left;
+	text-align: justify-all;
 	font-family: verdana;
 	background-color: white;
 	color: #444445;
@@ -17,8 +17,6 @@ header {
 	margin-top: 0;
 	margin-left: 0;}
 
-
-
 h1 {
 	font-size: 60px;
 	color: #969696;
@@ -29,19 +27,18 @@ h1 {
 }
 
 nav {background-color: gray;
-	height: 28px;
+	height: 50px;
 }
-
 .nav{ 
-margin-top: 150px;
-padding: 20px;
+padding: 10px;
 text-decoration: none; 
 color: white;
-padding-left: 50px;
 }
 
 nav a:hover {color: red;
 }
+
+.img{ border-radius: 5px; }
 
 h2 {
 	font-size: 50px;
@@ -50,15 +47,6 @@ h2 {
 	text-shadow: 3px 2px 2px gray; 
 	text-align: center;
 }
-
-.raparigas {
-	text-decoration: none;
-	color: #969696;	
-}
-.raparigas:hover {
-	color: blue;
-	}
-
 
 h3{
 	font-size: 40px;
@@ -90,17 +78,19 @@ footer{padding-top: 150px;
 p.redessociais { 
 	background-color: #CC0000;
 	border-radius: 5px;
-	height: 100px;
-	align-content: center;
 	color: white;
 	font-size: 20px;
 	text-align: center;
 	margin-left: 0;
 	}
 
+p.historia{margin-left: 250px;
+
+}
 #contactos{align-content: center;
 
 }
+
 
 .redes {
 	margin-right: 0;
